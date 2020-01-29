@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EFCore.Features\EFCore.Model\EFCore.Model.csproj" />
+    <ProjectReference Include="..\EFCore.Model\EFCore.Model.csproj" />
   </ItemGroup>
 
 </Project>
