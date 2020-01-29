@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\EFCore.Infra\EFCore.Infra.csproj" />
+    <ProjectReference Include="..\EFCore.Infra\EFCore.Infra.csproj" />
   </ItemGroup>
 
 </Project>
